@@ -10,5 +10,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+
+   "require": {
+    "madskullcreations/simplicity":"dev-master@dev"
+   },
+   "repositories": [
+    {
+       "type": "vcs",
+       "url": "https://github.com/madskullcreations/simplicity" 
+    }
+   ]
 }
