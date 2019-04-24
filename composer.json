@@ -1,0 +1,14 @@
+{
+    "name": "xinyang225201/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Xin Yang",
+            "email": "530435061@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
